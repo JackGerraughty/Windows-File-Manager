@@ -32,11 +32,6 @@
 
 ---
 
-## 📷 Screenshots
-
-*(Add screenshots here if you have them — helps make it visual.)*
-
----
 
 ## 🧩 Tech Stack
 
@@ -51,5 +46,5 @@
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/FileManager.git
+   git clone https://github.com/JackGerraughty/FileManager.git
    cd FileManager
