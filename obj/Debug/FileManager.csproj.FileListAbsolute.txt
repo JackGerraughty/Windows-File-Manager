@@ -1,0 +1,11 @@
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\bin\Debug\FileManager.exe
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\obj\Debug\FileManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\obj\Debug\FileManager.exe
+C:\Users\Jack\Desktop\CSE445\Application3\FileManager\obj\Debug\FileManager.pdb
